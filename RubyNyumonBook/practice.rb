@@ -31,13 +31,13 @@ p child
 
 #繰り返し処理
 10.times do |i|
-    puts i
+  puts i
 end
 
 [1,2,3].each do |i|
-    p i
+  p i
 end
 
 { height: 175, weight: 70 }.each do |element|
-    p element
+  p element
 end
